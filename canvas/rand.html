@@ -48,7 +48,7 @@
         let bt = document.querySelector("#generate");
         bt.addEventListener("click", (evt) => {
 
-            let seed = sumString(document.querySelector("#seed").value);
+            let seed = sumString(document.querySelector("#seed").value.trim());
             let delta = sumString(document.querySelector("#delta").value);
             let slice = 4;//document.querySelector("#size").value
             let mutator = 0;
