@@ -12,6 +12,7 @@
 	"Uses something that is transparent in your game",
 	"Has a component, vital to gameplay, that you’ve never seen in a game",
 	"Uses cards and all cards must be face-up at all times",
+	"The game must expose at least two competing success criteria (No single dominant 'correct' strategy; trade-offs are assessable.)",
 	"Playable within 10 minutes",
 	"Playable within 5 minutes",
 	"Playable within 1 minute",
@@ -27,6 +28,7 @@
 	"Plays up to 8+ players",
 	"Plays only 2 players",
 	"Solo player game",
+	"The game must include a reversible decision with a visible cost (Assesses reflection, revision, and metacognition.)",
 	"Find a word somewhere around you, add it to the title of your game",
 	"Is a 1 vs. many game",
 	"Contains something relevant but anachronistic to your theme",
@@ -37,6 +39,7 @@
 	"Uses dry erase as a key component",
 	"Turn order is determined by the reverse of the score",
 	"Has only 1 economy in the game (something that players spend)",
+	"The game must produce at least one artifact that can be scored independently of play (Enables asynchronous or blind assessment.)",
 	"Uses the box as a key component",
 	"Game is competitive but players cooperate to build a tableau",
 	"Use a game board",
@@ -46,5 +49,6 @@
 	"No randomness",
 	"Must use a D20",
 	"Game must create a keepsake",
-	"Game must be playable via postcards"
+	"Game must be playable via postcards",
+	"Failure is informative and unavoidable (At least one player must fail at something for the game to progress.)",
 ]
